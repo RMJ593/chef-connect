@@ -1,0 +1,56 @@
+name: chefconnect
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/LOGO.png  # Replace with the path to your image asset
+    - assets/food/burger.png
+    - assets/food/pizza.png
+    - assets/food/sandwich.png
+    - assets/food/susi.png
+    - assets/burger/bur1.jpeg
+    - assets/burger/bur2.jpeg
+    - assets/burger/bur3.jpeg
+    - assets/burger/bur4.jpeg
+    - assets/pizza/piz1.jpeg
+    - assets/pizza/piz2.jpeg
+    - assets/pizza/piz3.jpeg
+    - assets/pizza/piz4.jpeg
+    - assets/sandwich/san1.jpeg
+    - assets/sandwich/san2.jpeg
+    - assets/sandwich/san3.jpeg
+    - assets/sandwich/san4.jpeg
+    - assets/sushi/sus1.jpeg
+    - assets/sushi/sus2.jpeg
+    - assets/sushi/sus3.jpeg
+    - assets/sushi/sus4.jpeg
+    
+
+
+  
